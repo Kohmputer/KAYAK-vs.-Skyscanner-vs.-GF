@@ -18,7 +18,7 @@ Travelers have several options, with Google Flights and Skyscanner being major c
 ## 1.KAYAK 
 **Overview**
 
-KAYAK was found by Cofounders of Expedia, Travelocity and Orbitz in 2004 by Steve Hafner and Paul English. 
+KAYAK was found in 2004 by Steve Hafner and Paul English.
 Their websites and mobile applications enable people to easily research and compare accurate and relevant information from hundreds of other travel websites in one comprehensive, fast and intuitive display.
 In 2013, KAYAK got acquired by Booking Holdings. 
 
@@ -29,9 +29,11 @@ KAYAK Software's business model is a metasearch engine. This means that it aggre
 
 
 1. Referrals to travel suppliers and OTAs (distribution revenues)
-   - OTAs: eDreams, Expedia (including Hotwire, Hotels.com and CarRentals.com), Priceline.com (including Booking.com), Travelocity, Travel Holdings (including Easy Click Travel and Tourico Holidays), Airtrade International (including Vayama.com) and Airfare.com;
+   - OTAs: eDreams, Kiwi, Expedia (including Hotwire, Hotels.com and CarRentals.com), Priceline.com (including Booking.com), Travelocity, Travel Holdings (including Easy Click Travel and Tourico Holidays), Airtrade International (including Vayama.com) and Airfare.com;
    - OTAs either pay KAYAL a set cost per click (**CPC**), at the time of referral, or a fixed cost per acquisition (**CPA**), if the user eventually completes the acquisition, or as a percentage of the transaction value.
 2. Advertising placements on its websites and mobile applications
+
+
 
 **Strategic Partnerships** 
 
@@ -58,6 +60,12 @@ Some features of KAYAK's website:
 - Search by airline alliance: For travelers who prefer to stick with one airline alliance, you can filter results by your preferred alliance. This makes it easier to use alliance benefits when flying with a participating airline and enables you to pick a flight you can credit towards earning elite status.
 - KAYAK Chatbot: Kayak launched new AI features that let people ask a chatbot for travel tips and find flights with just a screenshot.
 
+
+Questions that came to my mind while I analyzed KAYAK's website? 
+- Do customers use all the filters? Does the data analytics team investigate which filters are being used?
+- How does KAYAK go about users with ad blockers?
+- 
+
 ## 2.Skyscanner
 <img width="1388" alt="Screenshot 2024-04-10 at 19 11 32" src="https://github.com/Kohmputer/KAYAK-vs.-Skyscanner-vs.-GF/assets/137958418/f8d5d60c-7248-40c5-9bb1-f71e492909e5">
 Original Skyscanner search flight page. 
@@ -82,6 +90,17 @@ Some features of Google Flights:
 - Flexible date search: Google Flights offers a flexible date search feature that allows users to compare prices across different dates, helping them find the most cost-effective travel options.
 - Integration with Google services: Google Flights seamlessly integrates with other Google services such as Google Calendar, making it convenient for users to manage their travel plans.
 - Price prediction: Google Flights uses historical flight data and machine learning algorithms to provide price predictions, helping users decide whether to book now or wait for potential price drops.
+
+### Glossary / Important terms in the meta-search engine industry
+- **Cost per Acquisition (CPA)**: The CPA indicates a cost, but it is not a payment method. It gives excellent information about the efficiency of an online ad. *CPA = Total spending / Number of conversions*
+- **Cost-per-Click (CPC)**: The price an advertiser is charged for each click (traffic) the ad receives. *CPC = Total spending / Number of clicks*
+- **effective Cost-per-Click (eCPC)**: This metric is used to show what the CPC would have been if the advertiser purchased clicks instead of impressions or conversions.
+- **(CPM) Cost per Thousand**: Paying on a CPM basis means that advertisers pays KAYAK based on the number of times their advertisements appear on its websites or mobile applications. *CPM = Total spending / Number of impressions*
+- **(CTR) Click through Rate**: When CPM and CPC indicate the cost of advertising, CTR measures its efficiency. *CTR = (Total clicks / Number of impressions) x 100*
+
+Questions: 
+- Do you use the same metric for each partner? 
+
 
 
 
