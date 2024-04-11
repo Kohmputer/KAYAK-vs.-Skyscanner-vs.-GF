@@ -61,10 +61,10 @@ Some features of KAYAK's website:
 - KAYAK Chatbot: Kayak launched new AI features that let people ask a chatbot for travel tips and find flights with just a screenshot.
 
 
-Questions that came to my mind while I analyzed KAYAK's website? 
+Questions that came to my mind while analyzing KAYAK's website. 
 - Do customers use all the filters? Does the data analytics team investigate which filters are being used?
-- How does KAYAK go about dealing users with ad blockers?
-- Are these ads served by KAYAk or is it a retargeting by Google using KAYAK as a website. 
+- How does KAYAK handle users with ad blockers?
+- Are these ads served by KAYAK, or are they retargeted by Google using KAYAK as the website?
 
 
 ## 2.Skyscanner
