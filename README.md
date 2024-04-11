@@ -56,7 +56,6 @@ Some features of KAYAK's website:
 - Comprehensive search options: Kayak offers a wide range of filters and search options to refine flight searches based on preferences such as price, airline, duration, and stops.
 - Price alerts: Users can set up price alerts to receive notifications when flight prices drop, allowing them to book at the best possible rate.
 - Multi-city search: Kayak allows users to search for multi-city itineraries easily, which is beneficial for travelers with complex travel plans.
-- Explore feature: Kayak's "Explore" feature allows users to find deals on flights to various destinations based on their budget and travel dates.
 - Filter searches by aircraft type: For true aviation geeks searching for specific planes to fly on, Kayak search results allow you to filter by the type of aircraft. By choosing this filter, you can ensure a particular seat configuration, in-flight experience, and other features.
 - Search by airline alliance: For travelers who prefer to stick with one airline alliance, you can filter results by your preferred alliance. This makes it easier to use alliance benefits when flying with a participating airline and enables you to pick a flight you can credit towards earning elite status.
 - KAYAK Chatbot: Kayak launched new AI features that let people ask a chatbot for travel tips and find flights with just a screenshot.
@@ -64,7 +63,8 @@ Some features of KAYAK's website:
 
 Questions that came to my mind while I analyzed KAYAK's website? 
 - Do customers use all the filters? Does the data analytics team investigate which filters are being used?
-- How does KAYAK go about users with ad blockers?
+- How does KAYAK go about dealing users with ad blockers?
+- Are these ads served by KAYAk or is it a retargeting by Google using KAYAK as a website. 
 
 
 ## 2.Skyscanner
