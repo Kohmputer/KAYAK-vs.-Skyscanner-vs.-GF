@@ -41,8 +41,8 @@ Kayak partners with online travel agencies, booking platforms, and travel interm
 
 **Website** 
 
-So now that we learned a bit more about KAYAK. Let's dive into the KAYAK's [website](https://www.kayak.com/).
-In my opinion, KAYAK has a really nice user-friendly interface. Let’s say we're booking a trip for May from Zurich to London. We can see that KAYAK has comprehensive search options / filters.
+Now that we've learned a bit more about KAYAK, let's dive into its [website](https://www.kayak.com/).
+In my opinion, KAYAK offers a really user-friendly interface. Let's say we're booking a trip for May from Zurich to London. We can see that KAYAK provides comprehensive search options and filters.
 
 ![Screenshot 2024-04-11 at 08 52 17](https://github.com/Kohmputer/KAYAK-vs.-Skyscanner-vs.-GF/assets/137958418/b56cc2be-3f0e-4388-a0f1-bec087e26237)
 
