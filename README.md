@@ -42,10 +42,11 @@ Kayak partners with online travel agencies, booking platforms, and travel interm
 **Website** 
 
 So now that we learned a bit more about KAYAK. Let's dive into the KAYAK's [website](https://www.kayak.com/).
-In my opinion, KAYAK has a really nice user-friendly interface. Let’s say we're booking a trip for June from Zurich to Seoul. We can see that KAYAK has comprehensive search options.
+In my opinion, KAYAK has a really nice user-friendly interface. Let’s say we're booking a trip for May from Zurich to London. We can see that KAYAK has comprehensive search options / filters.
 
-<img width="1393" alt="Screenshot 2024-04-10 at 19 07 33" src="https://github.com/Kohmputer/KAYAK-vs.-Skyscanner-vs.-GF/assets/137958418/1e2e7377-6ef9-4a89-9306-ead358279feb">
-Original KAYAK search flight page. 
+![Screenshot 2024-04-11 at 08 52 17](https://github.com/Kohmputer/KAYAK-vs.-Skyscanner-vs.-GF/assets/137958418/b56cc2be-3f0e-4388-a0f1-bec087e26237)
+
+Original KAYAK search flight page. We can also see few ad placements on their website. 
 
 <img width="1177" alt="Screenshot 2024-04-10 at 20 16 33" src="https://github.com/Kohmputer/KAYAK-vs.-Skyscanner-vs.-GF/assets/137958418/7092eb29-f086-4c73-b5f7-6b8b89a9935a">
 
@@ -64,7 +65,7 @@ Some features of KAYAK's website:
 Questions that came to my mind while I analyzed KAYAK's website? 
 - Do customers use all the filters? Does the data analytics team investigate which filters are being used?
 - How does KAYAK go about users with ad blockers?
-- 
+
 
 ## 2.Skyscanner
 <img width="1388" alt="Screenshot 2024-04-10 at 19 11 32" src="https://github.com/Kohmputer/KAYAK-vs.-Skyscanner-vs.-GF/assets/137958418/f8d5d60c-7248-40c5-9bb1-f71e492909e5">
@@ -95,8 +96,8 @@ Some features of Google Flights:
 - **Cost per Acquisition (CPA)**: The CPA indicates a cost, but it is not a payment method. It gives excellent information about the efficiency of an online ad. *CPA = Total spending / Number of conversions*
 - **Cost-per-Click (CPC)**: The price an advertiser is charged for each click (traffic) the ad receives. *CPC = Total spending / Number of clicks*
 - **effective Cost-per-Click (eCPC)**: This metric is used to show what the CPC would have been if the advertiser purchased clicks instead of impressions or conversions.
-- **(CPM) Cost per Thousand**: Paying on a CPM basis means that advertisers pays KAYAK based on the number of times their advertisements appear on its websites or mobile applications. *CPM = Total spending / Number of impressions*
-- **(CTR) Click through Rate**: When CPM and CPC indicate the cost of advertising, CTR measures its efficiency. *CTR = (Total clicks / Number of impressions) x 100*
+- **(CPM) Cost per Thousand/Impression**: Paying on a CPM basis means that advertisers pays KAYAK based on the number of times their advertisements appear on its websites or mobile applications. *CPM = Total spending / Number of impressions* 
+- **(CTR) Click through Rate**: When CPM and CPC indicate the cost of advertising, CTR measures its efficiency. Click-through tells you how often users clicked on the ad.  *CTR = (Total clicks / Number of impressions) x 100*
 
 Questions: 
 - Do you use the same metric for each partner? 
