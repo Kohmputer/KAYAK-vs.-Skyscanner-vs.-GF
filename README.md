@@ -1,6 +1,6 @@
 # Case Study on KAYAK vs. Skyscanner vs. Google Flights
 This is a writeup on three different technology-driven companies committed to improving online travel. 
-The purpose is to investigate how each site compares each other. 
+The purpose is to investigate how each site compares to each other. 
 
 # TL;DR 
 | Feature | KAYAK | Skyscanner | Google Flights |
@@ -77,7 +77,7 @@ Skyscanner displays a rather classic homepage, simple but presenting a nice invi
 
 Some features of Skyscanner website:
 - Flexible search options: Skyscanner offers flexible search options, including the ability to search for flights without specifying a destination, making it suitable for travelers with flexible travel plans.
-- Explore Everywhere: 
+- Explore Everywhere
 - Price alerts: Similar to Kayak, Skyscanner allows users to set up price alerts to monitor changes in flight prices and book at the most opportune moment.
 - User-friendly interface: Skyscanner's website features a clean and intuitive interface, making it easy for users to navigate and find relevant flight options.
 - Comprehensive coverage: Skyscanner searches across a wide range of airlines and travel agencies, providing users with a comprehensive selection of flight options.
