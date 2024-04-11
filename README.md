@@ -68,10 +68,12 @@ Questions that came to my mind while I analyzed KAYAK's website?
 
 
 ## 2.Skyscanner
-<img width="1388" alt="Screenshot 2024-04-10 at 19 11 32" src="https://github.com/Kohmputer/KAYAK-vs.-Skyscanner-vs.-GF/assets/137958418/f8d5d60c-7248-40c5-9bb1-f71e492909e5">
-Original Skyscanner search flight page. 
 
-Skyscanner displays a rather classic homepage, simple but presenting a nice invitation to travel, with the best offers and promotions of the current month. You can see right from the start the search bar as well as the associated possibilities. Besides, worth noting now, the possibility to compare the best prices of hotels and car rentals.
+![Screenshot 2024-04-11 at 08 59 25](https://github.com/Kohmputer/KAYAK-vs.-Skyscanner-vs.-GF/assets/137958418/8557e3ee-a09e-40ed-ab23-c6ecd541ac34)
+Original Skyscanner search flight page. We can see the heatmap that Skyscanner uses to indicate when prices are low, medium, and high. 
+Skyscanner displays a rather classic homepage, simple but presenting a nice invitation to travel, with the "Explore Everywhere" options. 
+
+![Screenshot 2024-04-11 at 09 00 03](https://github.com/Kohmputer/KAYAK-vs.-Skyscanner-vs.-GF/assets/137958418/cce45d52-317a-437b-8546-1bf1ef5e8ce4)
 
 Some features of Skyscanner website:
 - Flexible search options: Skyscanner offers flexible search options, including the ability to search for flights without specifying a destination, making it suitable for travelers with flexible travel plans.
