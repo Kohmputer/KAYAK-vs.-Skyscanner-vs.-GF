@@ -19,11 +19,11 @@ Travelers have several options, with Google Flights and Skyscanner being major c
 **Overview**
 
 KAYAK was found in 2004 by Steve Hafner and Paul English.
-Their websites and mobile applications enable people to easily research and compare accurate and relevant information from hundreds of other travel websites in one comprehensive, fast and intuitive display.
+Their website and mobile application enable people to easily research and compare accurate and relevant information from hundreds of other travel websites in one comprehensive, fast and intuitive display.
 In 2013, KAYAK got acquired by Booking Holdings. 
 
 **How does KAYAK generate revenue?** 
-KAYAK Software's business model is a metasearch engine. This means that it aggregates travel information from various websites and displays it in one place, allowing users to compare prices and services easily.
+KAYAK Software's business model is a **metasearch engine**. This means that it aggregates travel information from various websites and displays it in one place, allowing users to compare prices and services easily.
 
 <img width="740" alt="Screenshot 2024-04-10 at 19 44 32" src="https://github.com/Kohmputer/KAYAK-vs.-Skyscanner-vs.-GF/assets/137958418/34269b46-164e-49d5-9a93-b74e80f4ac7c">
 
