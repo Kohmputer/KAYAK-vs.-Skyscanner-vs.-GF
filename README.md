@@ -13,7 +13,7 @@ The purpose is to investigate how each site compares to each other.
 | Additional Feature | Hotel & car rental search, trip planning tools | "Everywhere" search, car rental, hotel | Integrated to the Google Ecosystem |
 
 # Understanding the Landscape: Kayak vs. Skyscanner vs. Google Flights
-Travelers have several options, with Google Flights and Skyscanner being major contenders. Google Flights shines with its user-friendly interface, clear price trend charts, and flexible date search grids. Skyscanner excels at "Everywhere" searches for budget-conscious travelers, including results for multi-modal journeys with trains. While Kayak offers a comprehensive search engine encompassing airlines and OTAs, it might appear less flexible in date selection compared to its rivals.
+Travelers have several options, with Google Flights and Skyscanner being major contenders. Google Flights shines with its user-friendly interface, clear price trend charts, and flexible date search grids. Skyscanner excels at "Everywhere" searches for budget-conscious travelers, including results for multi-modal journeys with trains. Kayak offers a comprehensive search engine encompassing airlines and OTAs, and offers more filters when booking compared to its rivals.
 
 ## 1.KAYAK 
 **Overview**
