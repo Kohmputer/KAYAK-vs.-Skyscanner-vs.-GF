@@ -12,6 +12,9 @@ The purpose is to investigate how each site compares to each other.
 | Airline Coverage | Wide, includes many Online Travel Agencies (OTAs) | Wide, includes some budget airlines | Wide, focuses on major airlines |
 | Additional Feature | Hotel & car rental search, trip planning tools | "Everywhere" search, car rental, hotel | Integrated to the Google Ecosystem |
 
+They all share the overarching goal of finding the best possible price-performance ratio for the desired product, in our case airline tickets, and then forwarding the user to the page of the selected airline to ultimately book the ticket there. But they differ in scope and orientation.
+Metasearch engines act as a **middle platform**. 
+
 # Understanding the Landscape: Kayak vs. Skyscanner vs. Google Flights
 Travelers have several options, with Google Flights and Skyscanner being major contenders. Google Flights shines with its user-friendly interface, clear price trend charts, and flexible date search grids. Skyscanner excels at "Everywhere" searches for budget-conscious travelers, including results for multi-modal journeys with trains. Kayak offers a comprehensive search engine encompassing airlines and OTAs, and offers more filters when booking compared to its rivals.
 
